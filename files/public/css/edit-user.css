@@ -1,0 +1,34 @@
+body {
+  padding-top: 100px;
+}
+
+thead
+{
+    background: #5E2E00;
+    color: white;
+}
+
+table
+{
+	width: 1000px;
+	text-align: center;
+
+}
+
+#no {width: 20px;}
+#username {width: 200px;}
+#email {width: 200px;}
+#opsi {width: 400px ;}
+
+th{	text-align: center;}
+
+tr:even
+{
+	background :#9B754F;
+	color: white;
+}
+
+.table-striped > tbody > tr:nth-child(2n) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: #95704C;
+   color: white;
+}
