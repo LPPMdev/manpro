@@ -1,0 +1,44 @@
+#pengumuman
+{
+	margin-right: 50px;
+}
+
+.baris
+{
+	color: black;
+}
+
+th
+{
+	text-align: center;
+}
+
+#header
+{
+	text-align: center;
+	background-color: white;
+}
+
+tbody
+{
+	background-color: white;
+}
+
+.center {
+  text-align: left;
+  max-width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th
+{
+   background-color: white;
+}
+
+.table-striped>tbody>tr:nth-child(even)>td, 
+.table-striped>tbody>tr:nth-child(even)>th
+{
+   background-color: #DEDEDE;
+}*/
